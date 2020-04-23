@@ -1,2 +1,3 @@
 pip install jupyter_contrib_nbextensions
 jupyter contrib nbextension install --user
+conda install yapf (if required)
